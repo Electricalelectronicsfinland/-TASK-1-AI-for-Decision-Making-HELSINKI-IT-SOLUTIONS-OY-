@@ -1,0 +1,8 @@
+employer_id,company_name,city,country,industry,num_employees,revenue,established_year
+EM001,"HELSINKI IT SOLUTIONS OY",Helsinki,Finland,IT Solutions,50,5M,2010
+EM002,Nordic Tech AB,Stockholm,Sweden,Software,30,3M,2012
+EM003,Oslo Innovations,Oslo,Norway,IT Consulting,20,2M,2015
+EM004,Copenhagen Digital,Copenhagen,Denmark,Digital Services,25,2.5M,2011
+EM005,Berlin IT Experts,Berlin,Germany,IT Services,40,4M,2009
+EM006,Brussels Solutions,Brussels,Belgium,Tech,35,3.5M,2013
+EM007,Tampere Soft,Tampere,Finland,Software,28,2.8M,2016

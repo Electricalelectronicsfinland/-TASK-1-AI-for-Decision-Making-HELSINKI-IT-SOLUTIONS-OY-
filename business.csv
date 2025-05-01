@@ -1,0 +1,9 @@
+business_id,branch_name,city,country,sector,annual_revenue,employee_count
+B001,"Helsinki Branch",Helsinki,Finland,IT Solutions,1M,50
+B002,"Stockholm Branch",Stockholm,Sweden,Software Solutions,0.8M,30
+B003,"Oslo Branch",Oslo,Norway,IT Consulting,0.7M,20
+B004,"Copenhagen Branch",Copenhagen,Denmark,Digital Services,0.75M,25
+B005,"Berlin Branch",Berlin,Germany,IT Services,0.9M,40
+B006,"Brussels Branch",Brussels,Belgium,Tech,0.85M,35
+B007,"Tampere Branch",Tampere,Finland,Software,0.65M,28
+B008,"Gothenburg Branch",Gothenburg,Sweden,Software,0.7M,15
