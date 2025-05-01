@@ -1,0 +1,6 @@
+Client,ChurnRisk(%),ContractSize(€k),AI_Score
+A,10,50,0.2
+B,35,80,0.65
+C,5,40,0.1
+D,70,100,0.85
+E,50,60,0.75
